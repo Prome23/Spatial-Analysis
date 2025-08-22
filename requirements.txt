@@ -1,0 +1,13 @@
+geopandas
+pyogrio
+pandas
+numpy
+matplotlib
+mapclassify
+libpysal
+esda
+spreg
+splot
+folium
+contextily
+statsmodels

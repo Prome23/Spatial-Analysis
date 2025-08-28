@@ -19,7 +19,6 @@ data/processed/*.gpkg
 *.zip
 
 # Maps/figures (optional to ignore working outputs)
-maps/
 
 # VS Code
 .vscode/
